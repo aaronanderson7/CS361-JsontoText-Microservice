@@ -28,7 +28,7 @@ A json payload will be sent in a request to the url above in the following forma
  ```
  #
  With the text data, you can add the data to the new file as such:
- Citation: https://www.tutorialspoint.com/how-to-create-and-save-text-file-in-javascript
+ (Citation: https://www.tutorialspoint.com/how-to-create-and-save-text-file-in-javascript)
  
  ```
  // npm install file-saver for the project.
